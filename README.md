@@ -1,4 +1,6 @@
-# Assignment8 Abhishek Kumar DA25C002
+# Assignment8 
+
+By:Abhishek Kumar DA25C002
 
 
 # 🚴‍♂️ Bike Sharing Demand Prediction using Ensemble Learning
@@ -9,8 +11,8 @@ The study demonstrates how combining models can improve prediction accuracy thro
 ---
 
 ## 📘 Project Overview
-
-The goal of this project is to analyze the **Bike Sharing dataset** (`hour.csv`) and build regression models that can accurately predict the **total count of bike rentals (`cnt`)** for a given hour.  
+DATASET LINK : https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
+The goal of this project is to analyze the **Bike Sharing dataset** and build regression models that can accurately predict the **total count of bike rentals (`cnt`)** for a given hour.  
 
 The project progresses through multiple stages:
 1. **Data Preprocessing & Feature Engineering**
